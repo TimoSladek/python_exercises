@@ -1,0 +1,60 @@
+order,year,winner,winner electoral votes
+1,1788,George Washington,69
+2,1792,GeorgeWashington,132
+3,1796,John Adams,71
+4,1800,Thomas Jefferson,73
+5,1804,Thomas Jefferson,162
+6,1808,James Madison,113
+7,1812,James Madison,128
+8,1816,James Monroe,183
+9,1820,James Monroe,218
+10,1824,John Quincy Adams[l],74
+11,1828,Andrew Jackson,171
+12,1832,Andrew Jackson,189
+13,1836,Martin Van Buren,147
+14,1840,William Henry Harrison,234
+15,1844,James K. Polk,170
+16,1848,Zachary Taylor,163
+17,1852,Franklin Pierce,254
+18,1856,James Buchanan,174
+19,1860,Abraham Lincoln,180
+20,1864,Abraham Lincoln (R),212
+21,1868,Ulysses S. Grant,214
+22,1872,Ulysses S. Grant,286
+23,1876,Rutherford B. Hayes,185
+24,1880,James A. Garfield,214
+25,1884,Grover Cleveland,219
+26,1888,Benjamin Harrison,233
+27,1892,Grover Cleveland,277
+28,1896,William McKinley,271
+29,1900,William McKinley,292
+30,1904,Theodore Roosevelt,336
+31,1908,William Howard Taft,321
+32,1912,Woodrow Wilson,435
+33,1916,Woodrow Wilson,277
+34,1920,Warren G. Harding,404
+35,1924,Calvin Coolidge,382
+36,1928,Herbert Hoover,444
+37,1932,Franklin D. Roosevelt,472
+38,1936,Franklin D. Roosevelt,523
+39,1940,Franklin D. Roosevelt,449
+40,1944,Franklin D. Roosevelt,432
+41,1948,Harry S. Truman,303
+42,1952,Dwight D. Eisenhower,442
+43,1956,Dwight D. Eisenhower,457
+44,1960,John F. Kennedy,303
+45,1964,Lyndon B. Johnson,486
+46,1968,Richard Nixon,301
+47,1972,Richard Nixon,520
+48,1976,Jimmy Carter,297
+49,1980,Ronald Reagan,489
+50,1984,Ronald Reagan,525
+51,1988,George H. W. Bush,426
+52,1992,Bill Clinton,370
+53,1996,Bill Clinton,379
+54,2000,George W. Bush,271
+55,2004,George W. Bush,286
+56,2008,Barack Obama,365
+57,2012,Barack Obama,332
+58,2016,Donald Trump,304
+59,2020,Joe Biden,306
